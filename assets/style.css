@@ -23,7 +23,12 @@ height: 100%;
 .cartao__conteudo h3 {
 background-color: tomato;
 text-align: left;
-paddin
+padding: 0.5rem;
+position: adsolute;
+margin: 0.6;
+border-radius: -0.6;
+font-size: 1w;
+}
 
 footer {
         background-color: black;
