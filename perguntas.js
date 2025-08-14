@@ -1,19 +1,19 @@
 criaCartao(
-    'Conhecimentos gerais',
+    'Astronomia',
     'Quem foi a peimeira pessoa a viajar no espaço?',
     'O Yuri Gagarin.'
 )
 
 criaCartao(
-    'Conhecimentos gerais',
-    'Quem inventou a lâmpada?',
-    'Thomas Edison.'
+    'História',
+    ' O que comemoramos dia 7 de Setembro?',
+    'Independencia do Brasil.'
 )
 
 criaCartao(
-    'Conhecimentos gerais',
-    'O que os pandas comem?',
-    'Bambú'
+    'Química',
+    'Qual é a molécula da água?',
+    'H2o'
 )
     criaCartao(
     'Conhecimentos gerais',
